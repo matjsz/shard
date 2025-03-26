@@ -1,6 +1,6 @@
 [project]
 name = "shard-llm"
-version = "1.0.2"
+version = "1.0.3"
 description = "Shard is an open-source LLM tuning package for Python, which can turn any causal LLM into a specific character."
 authors = [
     {name = "matjsz", email = "matjsz42@gmail.com"}
