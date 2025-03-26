@@ -1,0 +1,20 @@
+[project]
+name = "shard-llm"
+version = "1.0.0"
+description = "Shard is an open-source LLM tuning package for Python, which can turn any causal LLM into a specific character."
+authors = [
+    {name = "matjsz", email = "matjsz42@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "transformers (>=4.50.1,<5.0.0)",
+    "peft (>=0.15.0,<0.16.0)",
+    "datasets (>=3.4.1,<4.0.0)",
+    "bitsandbytes (>=0.45.4,<0.46.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
