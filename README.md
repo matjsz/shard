@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Shard</h1>
-    <img src="docs/logo.png" width="100rem" />
+    <img src="https://raw.githubusercontent.com/matjsz/shard/main/docs/logo.png?token=GHSAT0AAAAAAC7VNDJUKZKEFNC3WI44HQ3CZ7ER2SQ" width="100rem" />
     <p>Make your own character LLM.</p>
     <div style="display: flex; justify-content: center; gap: .5rem;">
         <img src="https://img.shields.io/badge/3.12+-blue?style=plastic&label=python" />
