@@ -5,7 +5,10 @@
     <div style="display: flex; justify-content: center; gap: .5rem;">
         <img src="https://img.shields.io/badge/3.12+-blue?style=plastic&label=python" />
         <img src="https://img.shields.io/badge/2.4+-orange?style=plastic&label=torch" />
-        <img src="https://img.shields.io/badge/1.0-green?style=plastic&label=stable" />
+        <img src="https://img.shields.io/badge/0.15+-yellow?style=plastic&label=peft" />
+    </div>
+    <div style="margin-top: 1rem;">
+        <img src="https://img.shields.io/pypi/v/shard-llm?style=plastic&label=shard" />
     </div>
 </div>
 
